@@ -1,7 +1,7 @@
 addons:
   sonarcloud:
     organization: "code-rw" # the key of the org you chose at step #3
-    token: "5a5ca12c90d82c7cf2e408c80cf6427cf94e1621" # encrypted value of your token
+    token: "9a8c1f6eb91fa05a3d0e8b16edde6d88348f4a7d" # encrypted value of your token
 jdk:
   - oraclejdk15
 script:
