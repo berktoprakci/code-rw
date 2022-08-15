@@ -1,0 +1,12 @@
+addons:
+  sonarcloud:
+    organization: "code-rw" # the key of the org you chose at step #3
+    token: "5a5ca12c90d82c7cf2e408c80cf6427cf94e1621" # encrypted value of your token
+jdk:
+  - oraclejdk15
+script:
+  - mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent package sonar:sonar
+cache:
+  directories:
+    - '$HOME/.m2/repository'
+    - '$HOME/.sonar/cache'

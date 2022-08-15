@@ -1,0 +1,11 @@
+
+t
+java:S2142	"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+Y
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¯ú™ú
+M
+java:S1135
+"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(‰˜®Î
+Q
+java:S1144"6Remove this unused private "emptySynchronized" method.(•ÑÜ—ıÿÿÿÿ
