@@ -1,0 +1,11 @@
+
+n
+java:S1104"XMake countryCount a static final constant or non-public and provide accessors if needed.(ëåÒà
+n
+java:S1104	"YMake countryCount2 a static final constant or non-public and provide accessors if needed.(”æ©P
+9
+java:S3066"#Lower the visibility of this field.(ëåÒà
+8
+java:S3066	"#Lower the visibility of this field.(”æ©P
+W
+java:S3066"<Lower the visibility of this setter or remove it altogether.(ÌŞ¾ûÿÿÿÿ

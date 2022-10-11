@@ -1,0 +1,15 @@
+
+M
+java:S1854"7Remove this useless assignment to local variable "bd4".(‹‚·
+R
+java:S1854"7Remove this useless assignment to local variable "bd3".(á×Ïÿÿÿÿÿ
+P
+java:S2204":Use ".get()" to retrieve the value and compare it instead.(È¨â
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¼‰ıÿÿÿÿ
+C
+java:S1481"(Remove this unused "bd3" local variable.(á×Ïÿÿÿÿÿ
+>
+java:S1481"(Remove this unused "bd4" local variable.(‹‚·
+V	java:S125"<This block of commented-out lines of code should be removed.(½¼áÜûÿÿÿÿ
+D
+java:S2200"/Only the sign of the result should be examined.(ÓÏ³:
